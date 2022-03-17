@@ -1,4 +1,4 @@
-# docDemo
+# Docusaurus Example
 
 Docusaurus ile ilgili küçük bir örnek.
 
