@@ -1,4 +1,4 @@
-# Docusaurus Example
+# Docusaurus Example 
 
 Docusaurus ile ilgili küçük bir örnek.
 
