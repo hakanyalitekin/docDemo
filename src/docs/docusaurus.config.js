@@ -9,7 +9,7 @@ const config = {
     title: "Angular 101",
     tagline: "Söz uçar wiki kalır 🤭",
     url: "https://github.com", //Github olarak güncelliyoruz.
-    baseUrl: "/docDemo", //Burayı güncelliyoruz.
+    baseUrl: "/docDemo/", //Burayı güncelliyoruz.
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/angular.svg",
